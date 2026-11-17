@@ -1,6 +1,6 @@
 cask "uku" do
-  version "1.15.1"
-  sha256 "8cf5462bd15dded2ae1de03ed817b01a6c0274406da3141df1b31f473209c69e"
+  version "1.20.2"
+  sha256 "c914042d44ec409847de3dca9315853d0bea04387831a14cadb947ac91d67d59"
 
   url "https://github.com/pulsar-a/uku-releases/releases/download/v#{version}/Uku.dmg"
   name "Uku"
